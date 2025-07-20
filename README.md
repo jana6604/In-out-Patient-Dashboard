@@ -34,7 +34,13 @@ Tools Used:
 - DAX Calculations
 - Data Modeling
 
-Author: Janardhan 
+Contact:  (If you'd like to connect, collaborate, or provide feedback)
+ 
+Author : Janardhan
+  
+-Email: janadrjt6604@gmail.com  
+-LinkedIn: [linkedin.com/in/janardhan-](https://www.linkedin.com/in/janardhan-)  
+-GitHub: [ggithub.com/jana6604](https://github.com/jana6604)
 
 License:
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
